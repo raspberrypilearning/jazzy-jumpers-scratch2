@@ -1,58 +1,32 @@
+--- no-print ---
+
+This is the **Scratch 2** version of the project. There is also a [Scratch 3 version of the project](https://projects.raspberrypi.org/en/projects/jazzy-jumpers).
+
+--- /no-print ---
+
 ## Introduction
 
-Add project description here. What will learners be making?
+Create a memory game involving jazzy jumpers.
 
 ### What you will make
 
---- no-print ---
-Add instructions for using the embedded content here.
+Below is an example of the game you will be making. Click the flag to begin. Memorise the jazzy jumper, then click on each part of the jumper template you're shown to change the colours and recreate the jumper you've memorised. When you think you've got it, press the button to see if you were right or not.
 
 <div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
+  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/181128192/?autostart=false" frameborder="0"></iframe>
 </div>
---- /no-print ---
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+### What you will learn
 
-+ Describe hardware here
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
 
-### Software
++ [Use basic programming constructs to create simple programs](https://curriculum.raspberrypi.org/programming/creator/){:target="_blank"}
 
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
++ [Design basic 2D and 3D assets](https://curriculum.raspberrypi.org/design/creator/){:target="_blank"}
 
-### Downloads
+### Additional information for educators
 
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/jazzy-jumpers-scratch2/print){:target="_blank"}.
 
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Two or three learning objectives
-+ ...should go here
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
-
---- /collapse ---
+Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
