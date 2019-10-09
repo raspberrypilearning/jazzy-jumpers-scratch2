@@ -6,4 +6,4 @@
 
 ### Software
 
-+ Scratch 2.0 (either [online](https://scratch.mit.edu/projects/editor/){:target="_blank"} or [offline](https://scratch.mit.edu/scratch2download/){:target="_blank"})
++ Scratch 2.0 [offline](https://scratch.mit.edu/download/scratch2){:target="_blank"})
